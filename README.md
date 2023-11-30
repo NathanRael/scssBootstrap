@@ -1,5 +1,5 @@
 # scssBootstrap
-An scss template for bootsrap that simplify your workflows
+An scss template for bootsrap that simplify your workflow
 
 ## Features : 
 
