@@ -10,5 +10,5 @@ use **(m or p)-pixel**(8-points grid system)
 
 ## Contact and help
 
-Question or need some help? Feel free to [contact me](https://web.facebook.com/profile.php?id=100087957505977).
+Questions or need help? Feel free to [contact me](https://web.facebook.com/profile.php?id=100087957505977).
 Your feedback would be appreciated
