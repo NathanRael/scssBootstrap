@@ -9,14 +9,14 @@ use **(m or p)-pixel**(8-points grid system)
  - Allows customization by overriding default Bootstrap colors or creating specific color themes.
 
 ## Installation
-To install the project, follow theses few steps : 
+To use this file, follow theses few steps : 
 1. Clone this repository inside your project
 2. Install and watch sass : 
 ```
-Install Sass globally
+#Install Sass globally
 npm install -g sass
 
-Watch your custom Sass for changes and compile it to CSS
+#Watch your custom Sass for changes and compile it to CSS
 sass --watch ./scss/custom.scss ./css/custom.css
 ```
 3. If you are using : 
